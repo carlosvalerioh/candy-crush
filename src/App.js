@@ -1,6 +1,6 @@
 import {useEffect, useState} from 'react'
 import ScoreBoard from './components/ScoreBoard'
-import blueCandy from './images/i-01.png'
+import blueCandy from './images/orange-candy.png'
 import greenCandy from './images/i-02.png'
 import orangeCandy from './images/i-03.png'
 import purpleCandy from './images/i-04.png'
